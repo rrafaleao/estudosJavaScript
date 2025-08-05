@@ -1,0 +1,1 @@
+Aula 7 sobre constantes em js. constantes são basicamente variaveis que não podem ser alteradas.
